@@ -1,0 +1,1 @@
+https://askdev.ru/q/pochemu-mingw64-poyavlyaetsya-na-moem-git-bash-67740/
