@@ -5,8 +5,8 @@ export const ImgContextProvider = ({ children }) => {
 	const [img, setImg] = useState('');
 	
 	return (
-		<imgContext.Provider value={{img, setImg}}>
+		<imgContext.Provider value={{ img, setImg }}>
 			{children}
 		</imgContext.Provider>
-	)
+	);
 }
