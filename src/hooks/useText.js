@@ -19,7 +19,7 @@ export const useText = holiday => {
 					setText(data.text)
 				}
 			})
-			.catch(err => console.log(err));
+			.catch(err => console.error(err));
 		
 	}, [holiday]);
 	
